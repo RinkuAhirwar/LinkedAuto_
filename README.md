@@ -10,7 +10,11 @@ According to the entered company , automator will send personalised connection r
 
 #    VIDEO DEMONSTRATION
 
-https://github.com/RinkuAhirwar/LinkedinAuto/assets/99554758/a7a1d149-1dc1-412b-a642-e53799fd70b8
+
+
+https://github.com/RinkuAhirwar/LinkedAuto_/assets/99554758/35bde6da-d7fb-4ab9-8a9b-ffd04f745ea0
+
+
 
 
      
