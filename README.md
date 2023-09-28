@@ -1,5 +1,5 @@
 #    LinkedinAuto
-*    Build a Automator using python which can login into the user linkedin account and ask the user which company people to connect .
+*    Made an Automator using python which can login into the user linkedin account and ask the user which company people to connect .
 According to the entered company , automator will send personalised connection request to the desired people.
 *    This automator will take 8 seconds to send a connection request
 *    20 personalized request can be sent in a go  
