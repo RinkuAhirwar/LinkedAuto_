@@ -6,7 +6,7 @@ According to the entered company , automator will send personalised connection r
      
 #    TECH INFO
 * library used : selenium 
-* web driver   : microsoft edge
+* web driver   : EdgeDriver
 
 #    VIDEO DEMONSTRATION
 
